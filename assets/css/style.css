@@ -10,3 +10,43 @@ body {
   color: #39a6b2;
   font-family: Helvetica, Arial, sans-serif;
 }
+
+/* Style for Header  */
+/* Adding header padding, backgrond color and flex for header name and navigation */
+header {
+  padding: 20px 35px;
+  background-color: #39a6b2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Adding header font properties  */
+header h1 {
+  font-weight: bold;
+  font-size: 36px;
+  color: gold;
+}
+
+/* This will make every a tag in header tag  */
+header a {
+  text-decoration: none;
+  color: gold;
+}
+
+/* This is the only specific a tag for nav bar  */
+header nav a {
+  font-weight: lighter;
+  font-size: 22px;
+}
+
+/* Header include the heading title and navbar. This take navbar for 50% width in header */
+header nav {
+  width: 50%;
+}
+
+/* Navbar is making with unorder list and this flex will change list direction in row. */
+header ul {
+  display: flex;
+  justify-content: space-around;
+}
