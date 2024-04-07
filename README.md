@@ -28,3 +28,6 @@ Run-Buddy is a fitness website designed to help users find personalized training
 Run-Buddy Sit was built using the following tools :
 
 - **Frontend:** HTML, CSS.
+
+## Version Update
+- We release every week for new version. Don't miss !!!
