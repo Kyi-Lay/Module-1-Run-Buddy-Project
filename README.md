@@ -13,7 +13,7 @@ Welcome to the Run-Buddy Fitness Website README! This document provides an overv
 
 ## Description
 
-Run-Buddy is a fitness website designed to help users find personalized training plans, connect with certified trainers, and track their fitness goals. Whether you're a beginner looking to start your fitness journey or an experienced athlete aiming for a new personal record, Run-Buddy provides the tools and resources you need to succeed.
+[Run-Buddy](https://five-star-developers.github.io/Run-Buddy/) is a fitness website designed to help users find personalized training plans, connect with certified trainers, and track their fitness goals. Whether you're a beginner looking to start your fitness journey or an experienced athlete aiming for a new personal record, Run-Buddy provides the tools and resources you need to succeed.
 
 ## Features
 
